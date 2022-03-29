@@ -1,0 +1,19 @@
+{
+    "Login": [
+    {
+        "name":"Duc",
+        "pass":"123",
+        "key": "0"
+    },
+    {
+        "name":"user",
+        "pass":"1",
+        "key": "1"
+    },
+    {
+        "name":"admin",
+        "pass":"1",
+        "key": "2"
+    }
+    ]
+}
